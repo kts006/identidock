@@ -1,5 +1,5 @@
 # identidock
-##Using Docker: DEVELOPING AND DEPLOYING SOFTWARE WITH CONTAINERS
+## Using Docker: DEVELOPING AND DEPLOYING SOFTWARE WITH CONTAINERS
 
-###Part 2 Example
+### Part 2 Example
 
